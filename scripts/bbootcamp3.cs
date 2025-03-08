@@ -1,0 +1,116 @@
+%n = -1;
+$Arena::object["bbootcamp3",%n++] = "tank4.dis -386 95.75 121.5 0 0 0";
+$Arena::object["bbootcamp3",%n++] = "esmblock.dis -401.473 95.7677 147.494 0 3.14152 0";
+$Arena::object["bbootcamp3",%n++] = "esmblock.dis -401.921 91.7095 148.588 0 -1.57077 1.57077";
+$Arena::object["bbootcamp3",%n++] = "esmblock.dis -401.504 95.2881 153.473 0 0 0";
+$Arena::object["bbootcamp3",%n++] = "esmblock.dis -403.743 99.7691 148.559 0 -1.57077 -1.57077";
+$Arena::object["bbootcamp3",%n++] = "esmblock.dis -406.43 95.7792 148.56 0 -1.57073 0";
+$Arena::object["bbootcamp3",%n++] = "mis_ob2.dis 245 373.5 181.804 0 -3.14098 0.779929";
+$Arena::object["bbootcamp3",%n++] = "mis_ob2.dis 256.25 362.125 181.807 0 -3.14098 0.779929";
+$Arena::object["bbootcamp3",%n++] = "mis_ob2.dis 267.5 350.75 181.806 0 -3.14098 0.779929";
+$Arena::object["bbootcamp3",%n++] = "mis_ob2.dis 278.75 339.375 181.805 0 -3.14098 0.779929";
+$Arena::object["bbootcamp3",%n++] = "mis_ob2.dis 288.375 329.625 186.005 0 -3.14097 0.779928";
+$Arena::object["bbootcamp3",%n++] = "mis_ob2.dis 278.875 362 181.804 0 -3.14098 0.779929";
+$Arena::object["bbootcamp3",%n++] = "mis_ob2.dis 267.625 373.375 181.805 0 -3.14098 0.779929";
+$Arena::object["bbootcamp3",%n++] = "mis_ob2.dis 267.75 396 181.802 0 -3.14098 0.779929";
+$Arena::object["bbootcamp3",%n++] = "mis_ob2.dis 279 384.625 181.798 0 3.141 0.785339";
+$Arena::object["bbootcamp3",%n++] = "mis_ob2.dis 290.25 373.25 181.803 0 -3.14098 0.779929";
+$Arena::object["bbootcamp3",%n++] = "mis_ob2.dis 301.5 361.875 181.802 0 -3.14098 0.779929";
+$Arena::object["bbootcamp3",%n++] = "mis_ob2.dis 279 384.625 181.799 0 2.6174 0.785339";
+$Arena::object["bbootcamp3",%n++] = "mis_ob2.dis 290.25 373.375 181.803 0 2.61739 0.785338";
+$Arena::object["bbootcamp3",%n++] = "mis_ob2.dis 267.625 373.375 187.795 0.00112899 -0.00114337 -2.35933";
+$Arena::object["bbootcamp3",%n++] = "mis_ob2.dis 278.875 362.001 187.812 0.00112899 -0.00114337 -2.35933";
+$Arena::object["bbootcamp3",%n++] = "ForceField 284.375 356.4 181.804 0 -0 0.779933";
+$Arena::object["bbootcamp3",%n++] = "ForceField 262.032 379 181.805 0 -0 0.779932";
+$Arena::object["bbootcamp3",%n++] = "hoverpost.dis 289.516 395.125 170.398 0 0 0";
+$Arena::object["bbootcamp3",%n++] = "hoverpost.dis 299.513 385.125 170.395 0 0 0";
+$Arena::object["bbootcamp3",%n++] = "ForceField -385.206 105.663 163.494 0 0 0";
+$Arena::object["bbootcamp3",%n++] = "ForceField -385.533 85.8668 163.494 0 0 0";
+$Arena::object["bbootcamp3",%n++] = "mis_ob2.dis -390.92 -1048.5 171.75 0 3.14112 0";
+$Arena::object["bbootcamp3",%n++] = "mis_ob2.dis -375.033 -1048.5 171.75 0 3.14112 0";
+$Arena::object["bbootcamp3",%n++] = "mis_ob2.dis -374.919 -1032.5 171.75 0 3.14113 0";
+$Arena::object["bbootcamp3",%n++] = "mis_ob2.dis -375.032 -1064.5 171.75 0 3.14113 0";
+$Arena::object["bbootcamp3",%n++] = "mis_ob2.dis -406 -1064.5 171.75 0 3.14113 0";
+$Arena::object["bbootcamp3",%n++] = "mis_ob2.dis -406.051 -1048.5 171.75 0 3.14111 0";
+$Arena::object["bbootcamp3",%n++] = "mis_ob2.dis -406.048 -1032.5 171.75 0 3.14113 0";
+$Arena::object["bbootcamp3",%n++] = "mis_ob2.dis -391 -1048.5 177.547 0 0 0";
+$Arena::object["bbootcamp3",%n++] = "ForceField -390.875 -1040.75 171.75 0 0 0";
+$Arena::object["bbootcamp3",%n++] = "ForceField -390.895 -1056.25 171.75 0 0 0";
+$Arena::object["bbootcamp3",%n++] = "expbridge.dis 79.8125 -411.625 195.375 0 -3.13854 0.279693";
+$Arena::object["bbootcamp3",%n++] = "expbridge.dis 113.783 -327.75 195.375 0 -3.13852 -1.27936";
+$Arena::object["bbootcamp3",%n++] = "esmblock.dis 109.199 -316.168 196.884 0 -2.81947 -1.27949";
+$Arena::object["bbootcamp3",%n++] = "esmblock.dis 108.125 -312.5 198.16 0 -2.55946 -1.27949";
+$Arena::object["bbootcamp3",%n++] = "esmblock.dis 107.056 -309.125 200.77 0 -2.29945 -1.27949";
+$Arena::object["bbootcamp3",%n++] = "esmblock.dis 106.31 -306.625 202.808 0 -1.57029 -1.27949";
+$Arena::object["bbootcamp3",%n++] = "cube.dis 59.6612 -343.375 201.125 0 -0 0.299912";
+$Arena::object["bbootcamp3",%n++] = "cube.dis 61.8181 -350.391 201.125 0 -0 0.299911";
+$Arena::object["bbootcamp3",%n++] = "cube.dis 54.7762 -352.636 201.125 0 -0 0.299913";
+$Arena::object["bbootcamp3",%n++] = "cube.dis 52.5 -345.625 201.125 0 -0 0.299914";
+$Arena::object["bbootcamp3",%n++] = "esmblock.dis 62.5625 -352.625 210.25 0 -2.39777 1.84108";
+$Arena::object["bbootcamp3",%n++] = "esmblock.dis 63.4619 -355.5 213.5 0 -1.69777 1.88108";
+$Arena::object["bbootcamp3",%n++] = "esmblock.dis 63.7221 -356.125 218.125 0 -1.11778 1.88109";
+$Arena::object["bbootcamp3",%n++] = "esmblock.dis 63.0275 -354 222.5 0 -0.91978 1.88107";
+$Arena::object["bbootcamp3",%n++] = "hoverpost.dis 61.5685 -348.875 194.625 0 -0 0.259778";
+$Arena::object["bbootcamp3",%n++] = "hoverpost.dis 59.0012 -339.375 194.75 0 -0 0.259777";
+$Arena::object["bbootcamp3",%n++] = "ForceField 60.0381 -344.5 210.75 0 -0 -1.31796";
+$Arena::object["bbootcamp3",%n++] = "ForceField 53.9507 -350.5 195.375 0 -0 -1.27915";
+$Arena::object["bbootcamp3",%n++] = "ForceField 52.0483 -344.125 195.375 0 -0 -1.27913";
+$Arena::object["bbootcamp3",%n++] = "ForceField 56.0191 -336.75 195.375 0 -0 -2.83913";
+$Arena::object["bbootcamp3",%n++] = "ForceField 62.5469 -334.75 195.375 0 -0 -2.83912";
+$Arena::object["bbootcamp3",%n++] = "expbridge.dis 134 -321.782 195.375 0 -3.13852 -1.27936";
+//breaking here on switches
+//Base Tower Switches
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch -380.551 103.205 147.458 0 0 0 Info!!!";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch -380.111 102.183 163.486 0 0 0 MA Range!";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch -380.11 95.1856 163.485 0 0 0 Plasma Range!";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch -380.109 88.1856 163.484 0 0 0 Sniper Range!";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 283.125 357.75 181.804 0 0 0 Back 2 the base!";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch -391.008 -1042.5 171.75 0.0181235 0.0144715 1.56311 Back 2 the base!";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 65.4224 -334.471 195.375 0 -0 0.199913 Back 2 the base!";
+//Hit All Switches
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 277.125 365.75 181.804 0 0 0 MA Switch ALL";
+//MA Tower Switches
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 289.5 395.154 185 0 0 0 Cargo Crate 1"; //CargoCrate
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 299.5 385.255 184.795 0 0 0 Cargo Crate 2"; //CargoCrate
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 237.793 373.629 181.805 0 -0 -2.34761 MA Switch 1";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 244.805 366.312 181.805 0 -0 -2.36761 MA Switch 2";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 260.303 350.683 181.807 0.0139722 0.0143112 -2.34771 MA Switch 3";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 266 344.935 181.807 0 -0 -2.32761 MA Switch 8";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 275.786 335.144 181.806 0 -0 2.34944 MA Switch 4";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 284 325.625 186.006 0 -0 -2.30761 MA Switch 5";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 305.625 357.625 181.801 0 -0 2.34941 MA Switch 6";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 263.5 400.375 181.801 0 -0 2.34942 MA Switch 7";
+//Plasma Tower Switches
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch -374.817 -1026.5 171.75 0 -0 -1.53644 p1";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch -369.013 -1048.5 171.75 0 -0 -1.53643 p2";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch -374.948 -1070.5 171.75 0 -0 -1.53643 p3";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch -405.875 -1070.5 171.75 0 -0 -1.53644 p4";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch -412.065 -1048.5 171.75 0 -0 -1.53643 p5";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch -406 -1026.5 171.75 0 -0 -1.53642 p6";
+//Sniper Tower Switches
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 94.1515 -438.625 195.375 0 -0 -1.29653 Sniper Switch 1";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 88.875 -420 195.375 0 -0 -1.29652 Sniper Switch 2";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 82.2629 -397.25 195.375 0 -0 -1.29652 Sniper Switch 3";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 77.0833 -378 195.375 0 -0 -1.29649 Sniper Switch 6";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 72.4375 -362.875 195.375 0 -0 -1.29653 Sniper Switch 4";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 57.2524 -342.381 210.75 0 -0 -1.29649 Sniper Switch 5";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 87.2648 -342.018 195.311 -0.0192497 0.0054083 -1.29643 Sniper duck 7";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 98.4206 -338.625 195.31 0 -0 -1.29648 Sniper duck 8";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 112.148 -334.375 195.311 0 -0 -1.29652 Sniper duck 9";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 124.504 -330.625 195.311 0 -0 -1.29652 Sniper Switch 4";
+$Arena::object["bbootcamp3",%n++] = "TowerSwitch 194.5 -309.25 195.311 0 -0 -1.2965 Sniper Switch 6";
+//End Tower switches
+//Invos
+$Arena::object["bbootcamp3",%n++] = "InventoryStation -402.715 92.41 147.494 0 -0 -3.13992 ";
+$Arena::object["bbootcamp3",%n++] = "InventoryStation -402.736 99.0519 147.494 0 0 0 ";
+$Arena::object["bbootcamp3",%n++] = "InventoryStation 262.875 378.14 181.805 0 -0 0.779759 By B00zE";
+$Arena::object["bbootcamp3",%n++] = "InventoryStation -390.904 -1055.25 171.75 0 -0 -3.11961 ";
+$Arena::object["bbootcamp3",%n++] = "InventoryStation 54.9927 -350.042 195.375 0 -0 1.80457 ";
+//spawn cover
+$Arena::object["bbootcamp3",%n++] = "PortGenerator -380.532 88.2049 200.452 0 -0 -0";
+$Arena::object["bbootcamp3",%n++] = "ForceField -373.198 97.4191 147.52 0 -0 -1.57071 ";
+$Arena::object["bbootcamp3",%n++] = "spawn3 -380.532 88.2049 147.452 0 -0 -0";
+$Arena::object["bbootcamp3",%n++] = "spawn3 -385.531 88.2048 147.451 0 -0 -0";
+$Arena::object["bbootcamp3",%n++] = "spawn3 -390.531 88.2048 147.451 0 -0 -0";
+%n = -1;
+echo("!! TA Arena Map Loading");
