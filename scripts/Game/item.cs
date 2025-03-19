@@ -609,7 +609,7 @@ function buyItem(%client,%item)
 						schedule(%player@".shieldCD = false;",0.001,%player);
 						schedule(%player@".usedcloakbeacon = false;",0.001,%player);
 						schedule(%player@".beaconcooldown = false;",0.001,%player);
-						//auto buy weapons. plas 3.0 
+						//auto buy weapons. 
 						%client.buyBypass = true;
 						buyItem(%client,TBlastCannon);
 						buyItem(%client,TRocketLauncher);

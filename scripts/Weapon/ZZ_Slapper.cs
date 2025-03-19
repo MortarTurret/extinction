@@ -34,8 +34,7 @@ function TABuilder(%clientId)
 		shapeFile = "sniper";
 //		hudIcon = "ammopack";
 		hudIcon = "weapon";
-		className = "Tool";	//className = "Weapon"; 	//tools dont take weapon slots -Plas
-		heading = $InvHead[ihtool];
+		className = "Tool";	//className = "Weapon"; 	//tools dont take weapon slots
 		shadowDetailMask = 4;
 		imageType = SlapperImage;
 		showWeaponBar = true;

@@ -242,7 +242,7 @@ function GrapplingHook::Swing(%player)
 			%dist = vector::getdistance(%playerPos,%anchorpos);
 			if(%dist < 200 && Player::getItemCount(%player, GrapplingHook) > 0 && Player::getclient(%anchor) == GameBase::getControlClient(%anchor))
 			{
-				%vec = vector::sub(%playerPos,%anchorpos);		//the magic starts here. -Plas
+				%vec = vector::sub(%playerPos,%anchorpos);		
 				
 				%time = getsimtime();	
 				//%isplayer = getObjectType(%anchor) == "Player";

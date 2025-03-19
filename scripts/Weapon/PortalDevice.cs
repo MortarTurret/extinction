@@ -191,7 +191,7 @@ function GateGunImage::onFire(%player, %slot)
 				//direction gun is pointed foo.
 					%d1= getWord(%trans,3);
 					%d2= getWord(%trans,4);
-					%d3= getWord(%trans,5);		//3,4,5 are dir vec -plas	
+					%d3= getWord(%trans,5);		//3,4,5 are dir vec 	
 					%GunRotVec = %d1 @" " @ %d2 @" " @ %d3;	//%d3 is up/ down		
 	
 				%exitVec = vector::normalize(vector::sub(%pos,$los::position));

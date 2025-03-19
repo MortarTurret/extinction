@@ -171,7 +171,7 @@ function Server::onClientDisconnect(%clientId)
 	%clientId.isArenaBanned = false;
 	%clientId.isGoated = false;
 	%clientId.isPackin = false;
-	%clientId.isGayPride = false;
+	%clientId.isRainbow = false;
 	%clientId.isKillPride = false;
 	%clientId.hitmarker = false;
 	%clientId.tmuted = "";

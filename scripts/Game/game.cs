@@ -2264,7 +2264,7 @@ function Game::onPlayerConnected(%playerId)
 	%playerId.isNotBot = true;
 	%playerId.isArenaBanned = false;
 	%playerId.isPackin = false;
-	%playerId.isGayPride = false;
+	%playerId.isRainbow = false;
 	%playerId.isKillPride = false;
 	%playerId.isArenaTDKicked = false;
 	%playerId.isBlackOut = false;
