@@ -158,6 +158,14 @@ function PlayerProfile::onChat(%clientId, %message)
 		}
 		if ( %cmd == "#register" )
 		{
+      %name = Client::getName(%clientId);
+
+      //- EXT Patch: Prevent namesquatting by simply locking registrations for 
+      //- certain names. This is why we can't have nice things. - Mortar Turret
+      if(String::findSubStr(%name, "Turret") != -1) {
+				Client::sendMessage(%clientId, 0, "This name cannot be registered on this server.");
+      }
+
 			if ( %clientId.PPIsRegistered )
 			{
 				Client::sendMessage(%clientId, 0, "You are already registered with the server.");
@@ -181,7 +189,6 @@ function PlayerProfile::onChat(%clientId, %message)
 					Client::sendMessage(%clientId, 0, "Your password must be 5 characters long and no more than 20.");
 					return True;
 				}
-				%name = Client::getName(%clientId);
 				%first = String::getFirstAlphaNum(%name);
 				if ( %first == -1 )
 				{
