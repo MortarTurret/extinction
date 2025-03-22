@@ -274,7 +274,7 @@ PopulateItemMax(AirStrikePack,			0,   0,   0,   0,   1,   1,   0,   0,   0,   0,
 PopulateItemMax(AmmoPack,			1,   1,   0,   0,   0,   0,   0,   0,   1,   1,   1,   1,   0,   0,   0);
 PopulateItemMax(EnergyPack,			1,   1,   1,   1,   1,   1,   1,   1,   1,   1,   1,   1,   1,   1,   1);
 PopulateItemMax(RepairPack,			1,   1,   1,   1,   1,   1,   1,   1,   1,   1,   1,   1,   1,   1,   1);
-PopulateItemMax(ShieldPack,			0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   1,   0,   1); //removed from necromancer. removed from warrior. -death666 3.18.17
+PopulateItemMax(ShieldPack,			0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   1); //removed from necromancer. removed from warrior. -death666 3.18.17 //- Removed from Troll (Mortar Turret, 2024/03/21)
 //PopulateItemMax(BuilderPack,			0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   1,   1,   0,   0,   0);
 PopulateItemMax(SensorJammerPack,		1,   1,   1,   1,   0,   0,   0,   0,   1,   1,   1,   1,   0,   1,   1); //removed from necromancer -death666. added fBU 4.6.17 -death666
 PopulateItemMax(PhaseShifterPack,		0,   0,   0,   0,   0,   0,   1,   1,   0,   0,   0,   0,   0,   0,   0);
